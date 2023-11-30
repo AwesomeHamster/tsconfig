@@ -1,0 +1,13 @@
+{
+  "name": "@hamster-bot/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared tsconfig for Awesome Hamster projects",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json",
+    "tsconfig.*.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
